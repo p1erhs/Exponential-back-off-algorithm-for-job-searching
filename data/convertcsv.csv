@@ -1,0 +1,2 @@
+_id,searchId,userId,requestId,pricingPlan,jobTitle,jobLocation,jobType,jobLevel,remote,platform,numberOfPages,totalJobs,newJobs,existingJobs,errorJobs,cacheHit,timeTaken,createdAt,updatedAt,__v
+67dd37675b6962dad557dec0,1f059f10-0639-11f0-938e-ed3b417f0cd9,610dda20-0630-11f0-938e-ed3b417f0cd9,463d5ebb-95f8-4984-93a3-c9e9f695d0c5,3,radiographic professor,Remote,Part-time,All,true,Workable,1,53,36,17,0,false,602.145,2025-03-21T09:54:47.444Z,2025-03-21T09:54:47.444Z,0
